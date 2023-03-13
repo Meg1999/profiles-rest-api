@@ -1,2 +1,11 @@
 oh my gaaawd!!
 How this happening
+
+Commands I need to/won't remember:
+----------------------------------------
+
+1. Create virtual env in Ubuntu
+python -m venv ~/env # creates virtual env in home directory
+
+2. Activate virtual env in Ubuntu
+source ~/env/bin/activate
